@@ -1,0 +1,13 @@
+# Sistem dosyaları (Mac ve Windows için)
+.DS_Store
+Thumbs.db
+
+# Editör ayar dosyaları
+.vscode/
+.idea/
+
+# Geçici dosyalar
+*.log
+*.tmp
+*.bak
+*.swp
